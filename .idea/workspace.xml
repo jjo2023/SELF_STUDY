@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9cbf15d-4d6e-4623-b73f-d1d4625e555a" name="Changes" comment="">
+    <list default="true" id="f9cbf15d-4d6e-4623-b73f-d1d4625e555a" name="Changes" comment="20230830 자바의 정석">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TheEssenceOfJava/C06_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheEssenceOfJava/Ch06_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +45,65 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="C06_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheEssenceOfJava.C06_2" />
+  <component name="RunManager" selected="Application.Ch06_8 (1)">
+    <configuration name="Ch06_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheEssenceOfJava.Ch06_4" />
+      <module name="SELF STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TheEssenceOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch06_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheEssenceOfJava.Ch06_6" />
+      <module name="SELF STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TheEssenceOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch06_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheEssenceOfJava.Ch06_7" />
+      <module name="SELF STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TheEssenceOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch06_8 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheEssenceOfJava.Ch06_8" />
+      <module name="SELF STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TheEssenceOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch06_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheEssenceOfJava.Ch06_8" />
       <module name="SELF STUDY" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_2" />
+        <item itemvalue="Application.Ch06_8 (1)" />
+        <item itemvalue="Application.Ch06_8" />
+        <item itemvalue="Application.Ch06_7" />
+        <item itemvalue="Application.Ch06_6" />
+        <item itemvalue="Application.Ch06_4" />
       </list>
     </recent_temporary>
   </component>
@@ -76,11 +134,29 @@
       <option name="presentableId" value="Default" />
       <updated>1693388516188</updated>
       <workItem from="1693388517217" duration="2895000" />
-      <workItem from="1693391655281" duration="1588000" />
+      <workItem from="1693391655281" duration="2906000" />
+      <workItem from="1693440329567" duration="22000" />
+      <workItem from="1693472073518" duration="3901000" />
+      <workItem from="1693527039503" duration="55000" />
+      <workItem from="1693557123234" duration="4396000" />
+      <workItem from="1693621342444" duration="4532000" />
     </task>
+    <task id="LOCAL-00001" summary="20230830 자바의 정석">
+      <option name="closed" value="true" />
+      <created>1693393407565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693393407565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20230830 자바의 정석" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230830 자바의 정석" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package TheEssenceOfJava;
 
-public class C06_2 {
+public class Ch06_2 {
     public static void main(String[] args) {
         Tv t1 = new Tv();
         Tv t2 = new Tv();

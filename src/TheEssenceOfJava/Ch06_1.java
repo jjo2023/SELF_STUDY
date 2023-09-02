@@ -1,6 +1,6 @@
 package TheEssenceOfJava;
 
-public class Ch06 {
+public class Ch06_1 {
     public static void main(String[] args) {
         Tv t; // t라는 리모콘 생성 = 변수 t를 선언
         t = new Tv(); // new를 이용해서 Tv 객체 생성, 참조변수 t가 새 객체를 가르킴
